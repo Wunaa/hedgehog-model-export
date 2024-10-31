@@ -62,7 +62,7 @@ To install the Hedgehog Engine Model Export & Convert addon, follow these steps:
 
 ## Requirements
 
-- **Blender Version**: This addon is compatible with Blender 2.80 and later.
+- **Blender Version**: This addon is compatible with Blender 3.6.
 - **ModelConverter**: Ensure you have the ModelConverter executable that works with Hedgehog Engine.
 
 ## Troubleshooting
